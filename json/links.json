@@ -1,0 +1,25 @@
+[{
+        "name": "Twitter",
+        "color": "deepskyblue",
+        "icon": "twitter",
+        "url": "https://twitter.com/parsamivehchi/"
+    },
+    {
+        "name": "Instagram",
+        "color": "purple",
+        "icon": "instagram",
+        "url": "https://www.instagram.com/parsa.mivehchi/"
+    },
+    {
+        "name": "Github",
+        "color": "black",
+        "icon": "github-circle",
+        "url": "https://github.com/parsamivehchi"
+    },
+    {
+        "name": "Codepen",
+        "color": "gray",
+        "icon": "codepen",
+        "url": "https://codepen.io/parsamivehchi"
+    }
+]
